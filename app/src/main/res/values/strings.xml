@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MidCalculator</string>
+    <string name="result_text">Result: %1$s</string>
+</resources>
